@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "57202e778520807fea0e530b8a3a262d",
+    "content-hash": "f46da4f3b677c1fffc116b89e2b80028",
     "packages": [
         {
             "name": "pushkar/easy-router",
@@ -284,6 +284,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=7.3"
+    },
     "platform-dev": []
 }
